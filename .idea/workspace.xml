@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ca9295c-0306-47e6-82f6-6ab18ac8776a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/react-native/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-native/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-native" />
+  </component>
+  <component name="ProjectId" id="1mTQ1YexU8p7g5LTMe4UEV3o04M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ca9295c-0306-47e6-82f6-6ab18ac8776a" name="Default Changelist" comment="" />
+      <created>1609514886762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609514886762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="52" key="SettingsEditor" timestamp="1609515742688">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="52" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1609515742688" />
+    <state x="62" y="100" width="1200" height="618" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1609742189463">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="62" y="100" width="1200" height="618" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.864@0.0.1536.864" timestamp="1609742189463" />
+    <state x="397" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1609742339561">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="397" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1609742339561" />
+    <state x="358" y="187" key="run.anything.popup" timestamp="1609515528700">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="358" y="187" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1609515528700" />
+  </component>
+</project>
